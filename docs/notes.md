@@ -9,3 +9,4 @@ Notes and usage details for vite-asset-collector.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- link the usage section
