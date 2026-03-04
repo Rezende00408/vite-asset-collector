@@ -25,3 +25,4 @@ Bundle your TYPO3 frontend assets with Vite
 // avoid re-reading the config on every call
 // clarify the control flow
 // clarify the control flow
+// handle the edge case from the last release
