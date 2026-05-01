@@ -32,3 +32,4 @@ Notes and usage details for vite-asset-collector.
 - clarify the setup steps
 - clarify the setup steps
 - fix a small wording issue
+- fix a small wording issue
