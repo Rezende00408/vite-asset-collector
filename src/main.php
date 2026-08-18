@@ -34,3 +34,4 @@ Bundle your TYPO3 frontend assets with Vite
 // avoid re-reading the config on every call
 // handle the edge case from the last release
 // match the style used in the rest of the module
+// match the style used in the rest of the module
